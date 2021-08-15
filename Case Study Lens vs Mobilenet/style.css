@@ -1,0 +1,30 @@
+.header{
+    color:red;
+    font-size:25px;
+    font-style:italic;
+}
+.img-responsive{
+    width:50px;
+    height:50px;
+    border:10px  black;
+}
+.vs{
+    font-size:20px;
+    font-weight: bold;
+}
+body{
+    background-color:cyan;
+}
+.mini_div{
+   border:5px 5px yellow;
+    width:100%;
+    height:300px;
+    text-align:left;
+    font-size:25px;
+    color:black;
+    background-color: blue;
+}
+img{
+    width:200px;
+    height:200px;
+}
